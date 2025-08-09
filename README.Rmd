@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/oncoharmony)](https://CRAN.R-project.org/package=oncoharmony)
+[![R-CMD-check](https://github.com/ShixiangWang/oncoharmony/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ShixiangWang/oncoharmony/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/ShixiangWang/oncoharmony/graph/badge.svg)](https://app.codecov.io/gh/ShixiangWang/oncoharmony)
 <!-- badges: end -->
 
 The goal of oncoharmony is to ...
